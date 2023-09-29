@@ -6,7 +6,7 @@
 
 
 
-## Installationnn and Setup
+## Installation and Setupp
 
 1. Clonee this repository to your local machine.
 
